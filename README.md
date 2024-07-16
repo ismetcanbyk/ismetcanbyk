@@ -1,11 +1,13 @@
 ### Hi, Welcome To My Github Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-I am Ismet. I'm 22 years old. I study software engineering at Celal Bayar University. I work on web development. I share my projects here. I usually use NestJs and NodeJs for backend projects. In my spare time, I develop mobile applications with react native.
+I am İsmet. I'm 22 years old. I study software engineering at Celal Bayar University. I work on web development. I share my projects here. I usually use NestJs and NodeJs for backend projects. In my spare time, I develop mobile applications with react native.
 <br>
+
+<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47qpupvgkwksk1lsif6k3m6eihnmouz07w6i09nbfu&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right" width="300" height="200" >
 
 [![](https://visitcount.itsvg.in/api?id=ismetcanbyk&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 
-# 💻 Tech Stack:
+### 💻 Tech Stack:
 
 <p align="left">  
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
