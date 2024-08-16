@@ -7,6 +7,8 @@ I am İsmet. I'm 22 years old. I study software engineering at Celal Bayar Unive
 
 [![](https://visitcount.itsvg.in/api?id=ismetcanbyk&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 
+<br>
+
 ### 💻 Tech Stack:
 
 <p align="left">  
