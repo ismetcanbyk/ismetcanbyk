@@ -30,12 +30,12 @@ I am İsmet. I'm 22 years old. I study software engineering at Celal Bayar Unive
 
 <br>
 
-## **📊 GitHub Stats:**
+<!-- ## **📊 GitHub Stats:**
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ismetcanbyk&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ismetcanbyk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
-<br>
+<br> -->
 
 <h3 align="center">Connect with me:</h3>
 
