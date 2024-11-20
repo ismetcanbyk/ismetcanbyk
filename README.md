@@ -1,6 +1,12 @@
 ## Hi, Welcome To My Github Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-I am İsmet. I study software engineering at Celal Bayar University. I work on web development. I share my projects here. I usually use NestJs and NodeJs for backend projects. In my spare time, I develop mobile applications with react native.
+I’m İsmet, a final-year Software Engineering student at Celal Bayar University. I specialize in web development and have a strong passion for building scalable and efficient applications.
+
+- 🔧 I mainly work with NestJS, Node.js, React, and Next.js for backend and frontend projects.
+- 📱 In my free time, I explore React Native to create mobile applications.
+- 🚀 I enjoy contributing to open-source projects and sharing my work here.
+
+Feel free to explore my repositories and connect with me for collaboration or just to exchange ideas!
 <br>
 
 <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47qpupvgkwksk1lsif6k3m6eihnmouz07w6i09nbfu&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right" width="300" height="200" >
