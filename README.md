@@ -11,7 +11,7 @@ Feel free to explore my repositories and connect with me for collaboration or ju
 
 <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47qpupvgkwksk1lsif6k3m6eihnmouz07w6i09nbfu&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right" width="300" height="200" >
 
-[![](https://visitcount.itsvg.in/api?id=ismetcanbyk&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ismetcanbyk&label=Profile%20views&color=0e75b6&style=flat" alt="ismetcanbyk" /> </p>
 
 <br>
 
