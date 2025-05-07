@@ -35,6 +35,7 @@ Feel free to explore my repositories and connect with me for collaboration or ju
 ### **👨🏻‍💻 My npm Package:** <code><img height="42" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
 
 - [List of provinces, districts and neighborhoods in Turkey. **turkey-location-data**](https://www.npmjs.com/package/turkey-location-data)
+- [Validate Turkish IBANs and validate all IBANs. **turkey-iban-validator**](https://www.npmjs.com/package/turkey-iban-validator)
 
 <br>
 
