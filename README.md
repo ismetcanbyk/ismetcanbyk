@@ -1,6 +1,6 @@
 ## Hi, Welcome To My Github Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-I’m İsmet, a final-year Software Engineering student at Celal Bayar University. I specialize in web development and have a strong passion for building scalable and efficient applications.
+I'm İsmet, a final-year Software Engineering student at Celal Bayar University. I specialize in web development and have a strong passion for building scalable and efficient applications.
 
 - 🔧 I mainly work with NestJS, Node.js, React, and Next.js for backend and frontend projects.
 - 📱 In my free time, I explore React Native to create mobile applications.
@@ -51,5 +51,6 @@ Feel free to explore my repositories and connect with me for collaboration or ju
 <p align="center">
 <a href="mailto:ismetcanbyk@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ismetcanbyk@gmail.com-blue?style=flat&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/ismet-can-byk/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@ismetcanbyk-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.instagram.com/ismetcanbyk/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@ismetcanbyk-pink?style=flat&logo=instagram"></a>
 
 </p>
