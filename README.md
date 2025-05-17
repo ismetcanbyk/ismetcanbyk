@@ -34,15 +34,16 @@ Feel free to explore my repositories and connect with me for collaboration or ju
 
 ### **👨🏻‍💻 My npm Package:** <code><img height="42" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
 
-- [List of provinces, districts and neighborhoods in Turkey. **turkey-location-data**](https://www.npmjs.com/package/turkey-location-data)
-- [Validate Turkish IBANs and validate all IBANs. **turkey-iban-validator**](https://www.npmjs.com/package/turkey-iban-validator)
+- <a href="https://www.npmjs.com/package/turkey-location-data" target="_blank" rel="noopener noreferrer">List of provinces, districts and neighborhoods in Turkey. <b>turkey-location-data</b></a>
+- <a href="https://www.npmjs.com/package/turkey-iban-validator" target="_blank" rel="noopener noreferrer">Validate Turkish IBANs and validate all IBANs. <b>turkey-iban-validator</b></a>
 
 <br>
 
 ### **🌐 My Projects:**
 
-- <img src="https://ibancontrol.com/_next/image?url=%2Fassets%2Ffavicon%2Fandroid-chrome-192x192.png&w=48&q=75" width="20" height="20" style="vertical-align: text-bottom"> [IBAN Validation and Verification Tool. **ibancontrol.com**](https://ibancontrol.com)
-- <img src="assets/teknoloji-ritmi.png" width="20" height="20" style="vertical-align: text-bottom"> [Technology News and Blog Platform. **teknolojiritmi.com**](https://teknolojiritmi.com)
+- <img src="https://ibancontrol.com/_next/image?url=%2Fassets%2Ffavicon%2Fandroid-chrome-192x192.png&w=48&q=75" width="20" height="20" style="vertical-align: text-bottom; margin-right: 8px;"> <a href="https://ibancontrol.com" target="_blank" rel="noopener noreferrer">IBAN Validation and Verification Tool. <b>ibancontrol.com</b></a>
+
+- <img src="assets/teknoloji-ritmi.png" width="20" height="20" style="vertical-align: text-bottom; margin-right: 8px;"> <a href="https://teknolojiritmi.com" target="_blank" rel="noopener noreferrer">Technology News and Blog Platform. <b>teknolojiritmi.com</b></a>
 
 <br>
 
