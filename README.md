@@ -41,7 +41,8 @@ Feel free to explore my repositories and connect with me for collaboration or ju
 
 ### **🌐 My Projects:**
 
-- [<img src="https://ibancontrol.com/_next/image?url=%2Fassets%2Ffavicon%2Fandroid-chrome-192x192.png&w=48&q=75" width="20" height="20"> IBAN Validation and Verification Tool. **ibancontrol.com**](https://ibancontrol.com)
+- <img src="https://ibancontrol.com/_next/image?url=%2Fassets%2Ffavicon%2Fandroid-chrome-192x192.png&w=48&q=75" width="20" height="20" style="vertical-align: text-bottom"> [IBAN Validation and Verification Tool. **ibancontrol.com**](https://ibancontrol.com)
+- <img src="assets/teknoloji-ritmi.png" width="20" height="20" style="vertical-align: text-bottom"> [Technology News and Blog Platform. **teknolojiritmi.com**](https://teknolojiritmi.com)
 
 <br>
 
