@@ -1,12 +1,13 @@
-## Hi, Welcome To My Github Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+## Hi, Welcome To My GitHub Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-I'm İsmet, a final-year Software Engineering student at Celal Bayar University. I specialize in web development and have a strong passion for building scalable and efficient applications.
+I'm İsmet, a Software Engineer with hands-on experience in full-stack web development.
 
-- 🔧 I mainly work with NestJS, Node.js, React, and Next.js for backend and frontend projects.
-- 📱 In my free time, I explore React Native to create mobile applications.
-- 🚀 I enjoy contributing to open-source projects and sharing my work here.
+- 🎓 I graduated from Celal Bayar University with a degree in Software Engineering (GPA: 3.74).
+- 🔧 I mainly work with **NestJS**, **Node.js**, **React**, and **Next.js**, building scalable backend services and modern frontend applications.
+- 📱 I also explore **React Native** as a hobby to build mobile apps.
+- 🚀 I enjoy contributing to open-source projects and sharing my work with the community.
 
-Feel free to explore my repositories and connect with me for collaboration or just to exchange ideas!
+Feel free to explore my repositories or reach out for collaboration or technical discussions!
 <br>
 
 <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47qpupvgkwksk1lsif6k3m6eihnmouz07w6i09nbfu&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right" width="300" height="200" >
