@@ -42,9 +42,9 @@ Feel free to explore my repositories or reach out for collaboration or technical
 
 ### **🌐 My Projects:**
 
-- 🐄 <a href="https://www.hayvanimpazarda.com" target="_blank" rel="noopener noreferrer">Hayvanım Pazarda. <b>hayvanimpazarda.com</b></a>
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cow.png" alt="🐄" width="25" height="25" style="vertical-align: text-bottom; margin-right: 8px;"> <a href="https://www.hayvanimpazarda.com" target="_blank" rel="noopener noreferrer">Hayvanım Pazarda <b>hayvanimpazarda.com</b></a>
 
-- <img src="https://ibancontrol.com/_next/image?url=%2Fassets%2Ffavicon%2Fandroid-chrome-192x192.png&w=48&q=75" width="20" height="20" style="vertical-align: text-bottom; margin-right: 8px;"> <a href="https://ibancontrol.com" target="_blank" rel="noopener noreferrer">IBAN Validation and Verification Tool. <b>ibancontrol.com</b></a>
+- <img src="https://ibancontrol.com/_next/image?url=%2Fassets%2Ffavicon%2Fandroid-chrome-192x192.png&w=48&q=75" width="20" height="20" style="vertical-align: text-bottom; margin-right: 8px;"> <a href="https://ibancontrol.com" target="_blank" rel="noopener noreferrer">IBAN Validation and Verification Tool <b>ibancontrol.com</b></a>
 
 - <img src="assets/teknoloji-ritmi.png" width="20" height="20" style="vertical-align: text-bottom; margin-right: 8px;"> <a href="https://teknolojiritmi.com" target="_blank" rel="noopener noreferrer">Technology News and Blog Platform. <b>teknolojiritmi.com</b></a>
 
