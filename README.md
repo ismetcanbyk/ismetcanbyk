@@ -44,6 +44,9 @@ Feel free to explore my repositories or reach out for collaboration!
 
 ### **🌐 Featured Projects:**
 
+- 🚀 <a href="https://ismetcanbyk.me" target="_blank" rel="noopener noreferrer">Personal Portfolio <b>ismetcanbyk.me</b></a><br>
+  *My personal portfolio website showcasing my projects, skills, and professional journey.*
+
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cow.png" alt="🐄" width="25" height="25" style="vertical-align: text-bottom; margin-right: 8px;"> <a href="https://www.hayvanimpazarda.com" target="_blank" rel="noopener noreferrer">Hayvanım Pazarda <b>hayvanimpazarda.com</b></a><br>
   *A web-first livestock & agricultural marketplace platform handled with full DevOps lifecycle.*
 
