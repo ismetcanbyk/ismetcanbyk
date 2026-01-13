@@ -1,6 +1,6 @@
 ## Hi, I'm İsmet! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-> *"Done is better than perfect."* 🚀
+> _"Done is better than perfect."_ 🚀
 
 I'm a **Software Engineer** specializing in building scalable backend architectures, microservices, and AI-driven web applications.
 
@@ -8,7 +8,6 @@ I'm a **Software Engineer** specializing in building scalable backend architectu
 - 🎓 I graduated from **Celal Bayar University** with a degree in Software Engineering (**GPA: 3.74/4.00**).
 - 💡 I specialize in **Node.js**, **NestJS**, and **TypeScript** ecosystems, focusing on clean architecture and best practices.
 - ☁️ I manage **DevOps** & cloud infrastructure using **AWS** and **Hetzner** (via **Coolify**) for seamless deployments.
-
 
 Feel free to explore my repositories or reach out for collaboration!
 <br>
@@ -37,6 +36,7 @@ Feel free to explore my repositories or reach out for collaboration!
 
 ### **👨🏻‍💻 My npm Packages:** <code><img height="42" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
 
+- <a href="https://www.npmjs.com/package/ismetcan" target="_blank" rel="noopener noreferrer">Personal CLI business card. Run <b>npx ismetcan</b> to get to know me!</a>
 - <a href="https://www.npmjs.com/package/turkey-location-data" target="_blank" rel="noopener noreferrer">List of provinces, districts and neighborhoods in Turkey. <b>turkey-location-data</b></a>
 - <a href="https://www.npmjs.com/package/turkey-iban-validator" target="_blank" rel="noopener noreferrer">Validate Turkish IBANs and validate all IBANs. <b>turkey-iban-validator</b></a>
 
@@ -45,14 +45,13 @@ Feel free to explore my repositories or reach out for collaboration!
 ### **🌐 Featured Projects:**
 
 - 🚀 <a href="https://ismetcanbyk.me" target="_blank" rel="noopener noreferrer">Personal Portfolio <b>ismetcanbyk.me</b></a><br>
-  *My personal portfolio website showcasing my projects, skills, and professional journey.*
+  _My personal portfolio website showcasing my projects, skills, and professional journey._
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cow.png" alt="🐄" width="25" height="25" style="vertical-align: text-bottom; margin-right: 8px;"> <a href="https://www.hayvanimpazarda.com" target="_blank" rel="noopener noreferrer">Hayvanım Pazarda <b>hayvanimpazarda.com</b></a><br>
-  *A web-first livestock & agricultural marketplace platform handled with full DevOps lifecycle.*
+  _A web-first livestock & agricultural marketplace platform handled with full DevOps lifecycle._
 
 - <img src="https://ibancontrol.com/_next/image?url=%2Fassets%2Ffavicon%2Fandroid-chrome-192x192.png&w=48&q=75" width="20" height="20" style="vertical-align: text-bottom; margin-right: 8px;"> <a href="https://ibancontrol.com" target="_blank" rel="noopener noreferrer">IBAN Validation Tool <b>ibancontrol.com</b></a><br>
-  *Web-based tool for validating and formatting international bank account numbers.*
-
+  _Web-based tool for validating and formatting international bank account numbers._
 
 <br>
 
