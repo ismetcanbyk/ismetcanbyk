@@ -7,7 +7,7 @@ I'm a **Software Engineer** specializing in building scalable backend architectu
 - 🔭 I’m currently working as a **Full Stack Developer** at **Elegant Ofis**, building high-traffic Hospital ERP systems.
 - 🎓 I graduated from **Celal Bayar University** with a degree in Software Engineering (**GPA: 3.74/4.00**).
 - 💡 I specialize in **Node.js**, **NestJS**, and **TypeScript** ecosystems, focusing on clean architecture and best practices.
-- ☁️ I manage **DevOps** & cloud infrastructure using **AWS** and **Hetzner** (via **Coolify**) for seamless deployments.
+- ☁️ I manage **DevOps** & cloud infrastructure using **AWS** and **Hetzner** for seamless deployments.
 
 Feel free to explore my repositories or reach out for collaboration!
 <br>
@@ -47,11 +47,17 @@ Feel free to explore my repositories or reach out for collaboration!
 - 🚀 <a href="https://ismetcanbyk.me" target="_blank" rel="noopener noreferrer">Personal Portfolio <b>ismetcanbyk.me</b></a><br>
   _My personal portfolio website showcasing my projects, skills, and professional journey._
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cow.png" alt="🐄" width="25" height="25" style="vertical-align: text-bottom; margin-right: 8px;"> <a href="https://www.hayvanimpazarda.com" target="_blank" rel="noopener noreferrer">Hayvanım Pazarda <b>hayvanimpazarda.com</b></a><br>
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cow.png" alt="🐄" width="25" height="25" style="vertical-align: text-bottom; margin-right: 8px;"> <a href="https://www.hayvanimpazarda.com" target="_blank" rel="noopener noreferrer">Hayvanım Pazarda <b>hayvanimpazarda.com</b></a> | <a href="https://play.google.com/store/apps/details?id=hayvanim.pazarda" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Google_Play-Download-green?style=flat&logo=google-play" alt="Get it on Google Play"></a><br>
   _A web-first livestock & agricultural marketplace platform handled with full DevOps lifecycle._
 
 - <img src="https://ibancontrol.com/_next/image?url=%2Fassets%2Ffavicon%2Fandroid-chrome-192x192.png&w=48&q=75" width="20" height="20" style="vertical-align: text-bottom; margin-right: 8px;"> <a href="https://ibancontrol.com" target="_blank" rel="noopener noreferrer">IBAN Validation Tool <b>ibancontrol.com</b></a><br>
   _Web-based tool for validating and formatting international bank account numbers._
+
+<br>
+
+### ☁️ Cloud Infrastructure:
+
+💡 **Looking for reliable cloud hosting?** Sign up for <a href="https://hetzner.cloud/?ref=OpPGNVrFrt5t" target="_blank" rel="noopener noreferrer">**Hetzner Cloud**</a> using my referral link and get **€20 free credits!**
 
 <br>
 
