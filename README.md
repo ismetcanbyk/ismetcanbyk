@@ -4,7 +4,7 @@
 
 I'm a **Software Engineer** specializing in building scalable backend architectures, microservices, and AI-driven web applications.
 
-- 🔭 I’m currently working as a **Full Stack Developer** at **Elegant Ofis**, building high-traffic Hospital ERP systems.
+- 🔭 I’m currently working as a **Full Stack Developer** at **Elegant Ofis (Elithair)** , building high-traffic Hospital ERP systems.
 - 🎓 I graduated from **Celal Bayar University** with a degree in Software Engineering (**GPA: 3.74/4.00**).
 - 💡 I specialize in **Node.js**, **NestJS**, and **TypeScript** ecosystems, focusing on clean architecture and best practices.
 - ☁️ I manage **DevOps** & cloud infrastructure using **AWS** and **Hetzner** for seamless deployments.
@@ -20,18 +20,17 @@ Feel free to explore my repositories or reach out for collaboration!
 
 ### 💻 Tech Stack:
 
-<p align="left">  
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/28507035?s=200&v=4" alt="nestjs" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+<a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/28507035?s=200&v=4" alt="nestjs" width="40" height="40"/></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 </p>
 
 ### **👨🏻‍💻 My npm Packages:** <code><img height="42" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
@@ -49,9 +48,6 @@ Feel free to explore my repositories or reach out for collaboration!
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cow.png" alt="🐄" width="25" height="25" style="vertical-align: text-bottom; margin-right: 8px;"> <a href="https://www.hayvanimpazarda.com" target="_blank" rel="noopener noreferrer">Hayvanım Pazarda <b>hayvanimpazarda.com</b></a> | <a href="https://play.google.com/store/apps/details?id=hayvanim.pazarda" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Google_Play-Download-green?style=flat&logo=google-play" alt="Get it on Google Play"></a><br>
   _A web-first livestock & agricultural marketplace platform handled with full DevOps lifecycle._
-
-- <img src="https://ibancontrol.com/_next/image?url=%2Fassets%2Ffavicon%2Fandroid-chrome-192x192.png&w=48&q=75" width="20" height="20" style="vertical-align: text-bottom; margin-right: 8px;"> <a href="https://ibancontrol.com" target="_blank" rel="noopener noreferrer">IBAN Validation Tool <b>ibancontrol.com</b></a><br>
-  _Web-based tool for validating and formatting international bank account numbers._
 
 <br>
 
