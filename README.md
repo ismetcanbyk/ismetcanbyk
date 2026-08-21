@@ -16,6 +16,12 @@ Feel free to explore my repositories or reach out for collaboration!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismetcanbyk&label=Profile%20views&color=0e75b6&style=flat" alt="ismetcanbyk" /> </p>
 
+### 🛠️ Tech Stack:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,nestjs,nodejs,java,postgres,mongodb,redis,docker,aws,git&perline=5" alt="Tech Stack" />
+</p>
+
 <br clear="both">
 
 ### **👨🏻‍💻 My npm Packages:** <code><img height="42" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
@@ -28,17 +34,14 @@ Feel free to explore my repositories or reach out for collaboration!
 
 ### **🌐 Featured Projects:**
 
-- 🚀 <a href="https://ismetcanbyk.me" target="_blank" rel="noopener noreferrer">Personal Portfolio <b>ismetcanbyk.me</b></a><br>
-  _My personal portfolio website showcasing my projects, skills, and professional journey._
-
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cow.png" alt="🐄" width="25" height="25" style="vertical-align: text-bottom; margin-right: 8px;"> <a href="https://www.hayvanimpazarda.com" target="_blank" rel="noopener noreferrer">Hayvanım Pazarda <b>hayvanimpazarda.com</b></a> | <a href="https://play.google.com/store/apps/details?id=hayvanim.pazarda" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Google_Play-Download-green?style=flat&logo=google-play" alt="Get it on Google Play"></a><br>
   _A web-first livestock & agricultural marketplace platform handled with full DevOps lifecycle._
 
-<br>
+- 🧠 <a href="https://psikometri.app" target="_blank" rel="noopener noreferrer">Psikometri <b>psikometri.app</b></a><br>
+  _A modern psychometric assessment and evaluation platform._
 
-### ☁️ Cloud Infrastructure:
-
-💡 **Looking for reliable cloud hosting?** Sign up for <a href="https://hetzner.cloud/?ref=OpPGNVrFrt5t" target="_blank" rel="noopener noreferrer">**Hetzner Cloud**</a> using my referral link and get **€20 free credits!**
+- 🚀 <a href="https://ismetcanbyk.me" target="_blank" rel="noopener noreferrer">Personal Portfolio <b>ismetcanbyk.me</b></a><br>
+  _My personal portfolio website showcasing my projects, skills, and professional journey._
 
 <br>
 
